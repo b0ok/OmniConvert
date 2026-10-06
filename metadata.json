@@ -1,0 +1,6 @@
+{
+  "name": "OmniConvert - Precision Unit & Live Currency Converter",
+  "description": "Tactile, high-precision unit converter featuring real-time live currency exchange rates, historical trend charts, unit movement bars, encyclopedic origins, and multi-unit breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
